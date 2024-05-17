@@ -1,7 +1,6 @@
 ## Welcome!
 
 ## About Me:
-🚀 Passionate Computer Science enthusiast based in Rochester, NY
 🎓 Master's degree from Rochester Institute of Technology (RIT), Bachelor's degree from Mumbai University
 ## Experience:
 💼 Data Engineer at International Game Technology (IGT)
